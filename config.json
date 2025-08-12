@@ -2,6 +2,6 @@
   "url": "tua",
   "user": "wulet",
   "pass": "LAB",
-  "threads": 8,
+  "threads": 32,
   "algo": "meki"
 }
